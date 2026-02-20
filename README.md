@@ -59,7 +59,7 @@ Parameter	Forklaring
 
 Eksempel:
 
-python kof_to_dxf.py "GV - Innmålt trau 25.01.2026.kof" trau.dxf --d=1.0 --text=Z
+python kof_to_dxf.py "innmålt 25.01.2026.kof" trau.dxf --d=1.0 --text=Z
 Åpne i AutoCAD
 
 Åpne resultat.dxf
